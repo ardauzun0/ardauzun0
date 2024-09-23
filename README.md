@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Arda and live in Istanbul.<br>🌱 I’m currently learning JS frameworks
+Hi, I'm Arda, a frontend developer based in Istanbul with 2 years of experience. I'm proficient in HTML5, CSS, SCSS, TailwindCSS, and JavaScript. Currently, I'm in the process of learning React to further enhance my skills. I'm passionate about building responsive, user-friendly web interfaces and continuously improving my craft.
 
 
 ## 🌐 Socials:
